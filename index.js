@@ -5,8 +5,8 @@ module.exports = {
 		'no-unused-vars': 'off',
 		'jsx-quotes': ['warn', 'prefer-single'],
 		indent: ['warn', 'tab'],
-		'object-curly-spacing': 'always',
-		'array-bracket-spacing': 'always'
+		'object-curly-spacing': ['warn', 'always'],
+		'array-bracket-spacing': ['warn', 'always']
 	},
 	parserOptions: {
 		ecmaVersion: 6,
