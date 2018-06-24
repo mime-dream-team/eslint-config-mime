@@ -1,0 +1,14 @@
+{
+	"name": "eslint-config-mime",
+	"version": "1.0.0",
+	"description": "eslint configuration for MIME, a capstone project built by Fullstack Academy students",
+	"main": "index.js",
+	"peerDependencies": {
+		"eslint": ">= 3"
+	},
+	"keywords": [
+		"eslint"
+	],
+	"author": "Lizz Thabet",
+	"license": "ISC"
+}
