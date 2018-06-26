@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-mime",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "eslint configuration for MIME, a capstone project built by Fullstack Academy students",
 	"main": "index.js",
 	"keywords": [
