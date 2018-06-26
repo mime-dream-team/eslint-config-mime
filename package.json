@@ -3,12 +3,16 @@
 	"version": "1.0.0",
 	"description": "eslint configuration for MIME, a capstone project built by Fullstack Academy students",
 	"main": "index.js",
-	"peerDependencies": {
-		"eslint": ">= 3"
-	},
 	"keywords": [
-		"eslint"
+		"eslint",
+		"eslintconfig"
 	],
 	"author": "Lizz Thabet",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"babel-eslint": "^8.2.5",
+		"eslint": "^5.0.1",
+		"eslint-config-fullstack": "^5.0.0",
+		"eslint-plugin-react": "^7.10.0"
+	}
 }
